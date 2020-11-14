@@ -10,25 +10,6 @@
     width:350px;
     height:200px;
 }
-@media all and (max-width : 360px){
-
-}
-@media all and (max-width:705px){
-
-} 
-@media all and (max-width:266px){
-
-} 
-@media all and (max-width:335px) and (min-width:266px){
-
-} 
-@media all and (max-width:476px) and (min-width:336px){
-
-} 
-@media all and (max-width:1118px) and (min-width:477px){
-
-} 
-
 .blog-footer{
     padding: 2.5rem 0;
     color: #999;
